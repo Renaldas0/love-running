@@ -43,6 +43,7 @@ h1, h2{
     float: right;
     list-style: none;
     margin-right: 30px;
+    display: inline;
 
 }
 
